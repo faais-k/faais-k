@@ -25,7 +25,7 @@ Production-oriented AI interview platform with multimodal evaluation, async scor
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="./assets/architecture.png" alt="System Architecture" width="100%">
+  <img src="./Arch.png" alt="System Architecture" width="100%">
 </p>
 
 ---
