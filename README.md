@@ -22,6 +22,12 @@ Production-oriented AI interview platform with multimodal evaluation, async scor
 🔗 Live Demo: [https://ascent-intrv.vercel.app](https://ascent-intrv.vercel.app)
 🔗 Repository: [https://github.com/faais-k/Multimodal-AI-interview-sim](https://github.com/faais-k/Multimodal-AI-interview-sim)
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="./assets/architecture.png" alt="System Architecture" width="100%">
+</p>
+
 ---
 
 ## 🌐 Socials:
