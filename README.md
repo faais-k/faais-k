@@ -36,5 +36,3 @@ Production-oriented AI interview platform with multimodal evaluation, async scor
 
 ---
 [![](https://komarev.com/ghpvc/?username=faais-k&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
